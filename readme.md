@@ -1,4 +1,6 @@
-这里是对来自http://interactivepython.org/runestone/static/pythonds/index.html系列文章的源代码整理。《Problem Solving with Algorithms and Data Structures using Python》
+这里是对来自http://interactivepython.org/runestone/static/pythonds/index.html
+
+系列文章的源代码整理。《Problem Solving with Algorithms and Data Structures using Python》
 
 
 
