@@ -6,6 +6,7 @@
 '''
 usedcoin = []
 
+
 def find_coin(coinValueList, change):
     if len(coinValueList) == 1:
         usedcoin.append(coinValueList[0])
